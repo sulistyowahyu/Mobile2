@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mobile 2</string>
+    <string name="password">Password :</string>
+    <string name="exit">Exit</string>
+    <string name="login">Login</string>
+    <string name="username">Username :</string>
+    <string name="save">Save</string>
+    <string name="list_user">List User</string>
+    <string name="selamat_datang">Selamat Datang</string>
+</resources>
